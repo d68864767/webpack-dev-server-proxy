@@ -1,0 +1,26 @@
+{
+  "name": "webpack-dev-server-proxy",
+  "version": "1.0.0",
+  "description": "A package to simplify the setup of a proxy server for webpack-dev-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/webpack-dev-server-proxy.git"
+  },
+  "keywords": [
+    "webpack",
+    "dev-server",
+    "proxy"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/webpack-dev-server-proxy/issues"
+  },
+  "homepage": "https://github.com/yourusername/webpack-dev-server-proxy#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
